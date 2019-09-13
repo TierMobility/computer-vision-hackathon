@@ -17,7 +17,7 @@ on the robocarstore but with some changes as bwlow.
 for easier usage of the raspbery pi. The image on the donkey car website does not have a desktop. 
 
 2. Due to enterprise WLAN being used by us, the WLAN setup from Donkey website cannot be replicated. For WLAN setup refer to 
-   [here](donkeyCar/WLAN.md)
+   [here](WLAN.md)
 
 ## Calibration
 
