@@ -1,8 +1,7 @@
 # Key to Donkey
 
 All the relevant information regarding to constructing and using the donkey car are provided in 
-[here](https://docs.robocarstore.com/). Here we provide some additional pointers based on our experience. Read them carefully before 
-starting with the Donkey Car.
+[here](https://docs.robocarstore.com/). Here we provide some additional pointers based on our experience. **Read them carefully before starting with the Donkey Car.**
 
 ## Hardware Setup :-
 
@@ -48,5 +47,10 @@ Using additional Servos with Servo Controller ( possibly for the collector)
 
 
 ## Joystick Mode:
+1. The joystick hould work without much hassle.
+2. there are totally three joysticks which can be used in rottational basis.
+3. Use the Joystick in X mode. 
+4. Please return the joysticks when not in use.
 
-Use the Joystick in X mode. 
+## Battery 
+Battery charging takes about 2.5 hours. The run time depending on use is around 30 mins. Plan your tasks accordingly.
