@@ -4,11 +4,11 @@ All the relevant information regarding to constructing and using the donkey car 
 [here](https://docs.robocarstore.com/). Here we provide some additional pointers based on our experience. Read them carefully before 
 starting with the Donkey Car.
 
-##Hardware Setup :-
+## Hardware Setup :-
 
 The hardware setup can be followed exactly as in the [link](https://docs.robocarstore.com/guide/build_hardware/).
 
-##Software Setup :-
+## Software Setup :-
 
 The software setup also can be followed from the [link](https://docs.robocarstore.com/guide/robot_sbc/setup_raspberry_pi/) 
 on the robocarstore but with some changes as bwlow.
@@ -19,7 +19,7 @@ for easier usage of the raspbery pi. The image on the donkey car website does no
 2. Due to enterprise WLAN being used by us, the WLAN setup from Donkey website cannot be replicated. For WLAN setup refer to 
    [here](donkeyCar/WLAN.md)
 
-##Calibration
+## Calibration
 
 1. While calibrating give small values and once you see the car moving at decent speeds use that as the maximum value. 
 Dont try to get the car to work at maximum speeds a it then becomes difficult to control.
