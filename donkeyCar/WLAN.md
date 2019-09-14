@@ -5,17 +5,17 @@ Move to root folder. ( Two times cd ..)
 1. First edit wpa_supplicant.conf file located in /etc/wpa_supplicant/ folder.
     1) sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
     2) Change the country to DE
-    3) Type the following in addition what is present in the file.One of the team memebers Username and password can be used.
+    3) Type the following in addition what is present in the file. One of the team memebers Username and Password can be used. The double codes around user name and password are important.
 
             network={
-                ssid=”drivery”
+                ssid="drivery"
                 scan_ssid=1
                 auth_alg=OPEN
                 key_mgmt=WPA-EAP
                 group=CCMP TKIP
                 eap=PEAP
-                identity=**"username"**
-                password=**"password"**
+                identity="username"
+                password="password"
                 phase1="peaplabel=0"
                 phase2="auth=MSCHAPV2"
             }
